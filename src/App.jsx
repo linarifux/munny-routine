@@ -19,7 +19,7 @@ export default function App() {
         <div className="inline-block bg-indigo-100 text-indigo-800 text-[10px] sm:text-xs font-bold px-3 py-1 rounded-full mb-1 md:mb-2">
           {currentDayName === activeDay ? "Today's Schedule" : `${activeDay}'s Schedule`}
         </div>
-        <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900">Munny's 4th Year Routine</h1>
+        <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900">4th Year Class Routine</h1>
         <p className="text-xs sm:text-sm md:text-base text-slate-500 font-medium">Govt. Rajendra College • Sociology Dept</p>
       </header>
 
